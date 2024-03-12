@@ -8,7 +8,7 @@ git log
 
 git push
 
-git remote add github-link
+git remote add remote-link
 
 git push – set-upstream origin master
 
